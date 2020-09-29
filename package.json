@@ -29,3 +29,4 @@
     "not op_mini all"
   ]
 }
+ "build": "CI=false react-scripts build"
